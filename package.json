@@ -1,0 +1,32 @@
+{
+  "name": "react-native-headless-work-manager",
+  "title": "React Native Headless Work Manager",
+  "version": "1.0.0",
+  "description": "Enables the use of Android's WorkManager to schedule execution of HeadlessJS tasks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/infuse-us/react-native-headless-work-manager.git",
+    "baseUrl": "https://github.com/infuse-us/react-native-headless-work-manager"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": {
+    "name": "Jascha Ephraim",
+    "email": "jascha@infuse.us"
+  },
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "peerDependencies": {
+    "react": "^16.8.1",
+    "react-native": ">=0.59.0-rc.0 <1.0.x"
+  },
+  "devDependencies": {
+    "react": "^16.8.3",
+    "react-native": "^0.59.10"
+  }
+}

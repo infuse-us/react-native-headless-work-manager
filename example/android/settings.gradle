@@ -1,0 +1,5 @@
+rootProject.name = 'example'
+include ':react-native-headless-work-manager'
+project(':react-native-headless-work-manager').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-headless-work-manager/android')
+
+include ':app'
