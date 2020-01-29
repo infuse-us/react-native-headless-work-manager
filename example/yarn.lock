@@ -4854,9 +4854,6 @@ react-is@^16.8.1, react-is@^16.8.3, react-is@^16.8.4:
 "react-native-headless-work-manager@file:..":
   version "1.0.0"
 
-"react-native-headless-work-manager@file:../":
-  version "1.0.0"
-
 react-native@0.59:
   version "0.59.10"
   resolved "https://registry.yarnpkg.com/react-native/-/react-native-0.59.10.tgz#352f381e382f93a0403be499c9e384bf51c2591c"

@@ -47,7 +47,7 @@ To your `AndroidManifest.xml`, add:
 ```javascript
 import { AppRegistry } from 'react-native';
 
-AppRegistry.registerHeadlessTask('YourHeadlessTask', () => data => console.log(data));
+AppRegistry.registerHeadlessTask('YourHeadlessTask', () => async data => console.log(data));
 ```
 
 `App.js` (or wherever you like)
