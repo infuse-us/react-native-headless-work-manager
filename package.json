@@ -28,5 +28,8 @@
   "devDependencies": {
     "react": "^16.8.3",
     "react-native": "^0.59.10"
+  },
+  "resolutions": {
+    "**/mem": "^4.3.0"
   }
 }
