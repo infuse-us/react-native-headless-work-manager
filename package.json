@@ -1,7 +1,7 @@
 {
   "name": "react-native-headless-work-manager",
   "title": "React Native Headless Work Manager",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Enables the use of Android's WorkManager to schedule execution of HeadlessJS tasks",
   "main": "index.js",
   "scripts": {
